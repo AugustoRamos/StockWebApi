@@ -1,0 +1,13 @@
+C:\Users\augusto.ramos\documents\visual studio 2017\Projects\Bradop.StockWebApi\Domain\bin\Debug\Domain.dll.config
+C:\Users\augusto.ramos\documents\visual studio 2017\Projects\Bradop.StockWebApi\Domain\bin\Debug\Domain.dll
+C:\Users\augusto.ramos\documents\visual studio 2017\Projects\Bradop.StockWebApi\Domain\bin\Debug\Domain.pdb
+C:\Users\augusto.ramos\documents\visual studio 2017\Projects\Bradop.StockWebApi\Domain\bin\Debug\FluentNHibernate.dll
+C:\Users\augusto.ramos\documents\visual studio 2017\Projects\Bradop.StockWebApi\Domain\bin\Debug\Iesi.Collections.dll
+C:\Users\augusto.ramos\documents\visual studio 2017\Projects\Bradop.StockWebApi\Domain\bin\Debug\NHibernate.dll
+C:\Users\augusto.ramos\documents\visual studio 2017\Projects\Bradop.StockWebApi\Domain\bin\Debug\FluentNHibernate.pdb
+C:\Users\augusto.ramos\documents\visual studio 2017\Projects\Bradop.StockWebApi\Domain\bin\Debug\FluentNHibernate.xml
+C:\Users\augusto.ramos\documents\visual studio 2017\Projects\Bradop.StockWebApi\Domain\bin\Debug\Iesi.Collections.xml
+C:\Users\augusto.ramos\documents\visual studio 2017\Projects\Bradop.StockWebApi\Domain\bin\Debug\NHibernate.xml
+C:\Users\augusto.ramos\documents\visual studio 2017\Projects\Bradop.StockWebApi\Domain\obj\Debug\Bradop.Domain.csproj.CoreCompileInputs.cache
+C:\Users\augusto.ramos\documents\visual studio 2017\Projects\Bradop.StockWebApi\Domain\obj\Debug\Domain.dll
+C:\Users\augusto.ramos\documents\visual studio 2017\Projects\Bradop.StockWebApi\Domain\obj\Debug\Domain.pdb
