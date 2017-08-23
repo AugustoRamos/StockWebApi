@@ -18,3 +18,23 @@ C:\Users\augusto.ramos\documents\visual studio 2017\Projects\Bradop.StockWebApi\
 C:\Users\augusto.ramos\documents\visual studio 2017\Projects\Bradop.StockWebApi\Business\obj\Debug\Bradop.Business.csproj.CoreCompileInputs.cache
 C:\Users\augusto.ramos\documents\visual studio 2017\Projects\Bradop.StockWebApi\Business\obj\Debug\Business.dll
 C:\Users\augusto.ramos\documents\visual studio 2017\Projects\Bradop.StockWebApi\Business\obj\Debug\Business.pdb
+D:\StockWebApi\Business\bin\Debug\Business.dll.config
+D:\StockWebApi\Business\bin\Debug\Business.dll
+D:\StockWebApi\Business\bin\Debug\Business.pdb
+D:\StockWebApi\Business\bin\Debug\Data.dll
+D:\StockWebApi\Business\bin\Debug\Domain.dll
+D:\StockWebApi\Business\bin\Debug\FluentNHibernate.dll
+D:\StockWebApi\Business\bin\Debug\Iesi.Collections.dll
+D:\StockWebApi\Business\bin\Debug\NHibernate.dll
+D:\StockWebApi\Business\bin\Debug\Data.pdb
+D:\StockWebApi\Business\bin\Debug\Data.dll.config
+D:\StockWebApi\Business\bin\Debug\Domain.pdb
+D:\StockWebApi\Business\bin\Debug\Domain.dll.config
+D:\StockWebApi\Business\bin\Debug\FluentNHibernate.pdb
+D:\StockWebApi\Business\bin\Debug\FluentNHibernate.xml
+D:\StockWebApi\Business\bin\Debug\Iesi.Collections.xml
+D:\StockWebApi\Business\bin\Debug\NHibernate.xml
+D:\StockWebApi\Business\obj\Debug\Bradop.Business.csprojResolveAssemblyReference.cache
+D:\StockWebApi\Business\obj\Debug\Bradop.Business.csproj.CoreCompileInputs.cache
+D:\StockWebApi\Business\obj\Debug\Business.dll
+D:\StockWebApi\Business\obj\Debug\Business.pdb
